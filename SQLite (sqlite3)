@@ -1,0 +1,9 @@
+Database.h / Database.cpp
+
+sqlite3 API
+
+таблицы:
+
+accounts
+
+transactions
