@@ -1,4 +1,17 @@
-# Fluffy Palm Tree 🌴
+Educational Core Banking System Simulation in C++
+
+Секции:
+
+Features
+
+Architecture
+
+Technologies
+
+How to build (CMake)
+
+Future improvements 
+#Fluffy Palm Tree 🌴
 
 ## Overview
 **Fluffy Palm Tree** is a small educational C++ project demonstrating a simple banking system.
