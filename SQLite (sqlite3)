@@ -7,3 +7,10 @@ sqlite3 API
 accounts
 
 transactions
+/*SQLite = стандарт для:
+
+embedded systems
+
+fintech prototypes
+
+desktop apps*/
