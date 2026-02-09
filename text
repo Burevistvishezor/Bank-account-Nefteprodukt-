@@ -1,0 +1,13 @@
+Bank-account-Nefteproduct/
+├── src/
+│   ├── Account.cpp / .h
+│   ├── Bank.cpp / .h
+│   ├── Transaction.cpp / .h
+│   └── main.cpp
+├── include/
+├── tests/
+├── docs/
+│   └── architecture.md
+├── data/
+├── CMakeLists.txt
+└── README.md
